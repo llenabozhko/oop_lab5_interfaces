@@ -7,6 +7,7 @@ namespace oop_lab5_interfaces
         static void Main(string[] args)
         {
             TestAPlusBSquare(new MyFrac(1, 3), new MyFrac(1, 6));
+            TestAPlusBSquare(new MyComplex(1, 3), new MyComplex(1, 6));
 
 
             MyFrac[] fractions = { new MyFrac(1, 3), new MyFrac(50, 60), new MyFrac(1, 2), new MyFrac(1, 4), new MyFrac(1, 8) };
