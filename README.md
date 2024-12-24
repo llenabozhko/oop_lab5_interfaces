@@ -1,1 +1,1 @@
-# ùîá çàïóñòèòè òåñòè â visual studio: Ctrl+R, A; àáî Test -> Run all tests
+# Ñ‰Ð¾Ð± Ð·Ð°Ð¿ÑƒÑÑ‚Ð¸Ñ‚Ð¸ Ñ‚ÐµÑÑ‚Ð¸ Ð² visual studio: Ctrl+R, A; Ð°Ð±Ð¾ Test -> Run all tests
